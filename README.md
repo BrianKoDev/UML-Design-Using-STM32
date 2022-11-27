@@ -18,4 +18,8 @@ The green LEDs should toggle when data has been deleted.
 
 # UML Design Diagrams
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/BrianKoDev/UML-Design-Using-STM32/blob/main/diagrams/class.PNG?raw=true)
+![alt text](https://github.com/BrianKoDev/UML-Design-Using-STM32/blob/main/diagrams/sequence.PNG?raw=true)
+![alt text](https://github.com/BrianKoDev/UML-Design-Using-STM32/blob/main/diagrams/state1.PNG?raw=true)
+![alt text](https://github.com/BrianKoDev/UML-Design-Using-STM32/blob/main/diagrams/state2.PNG?raw=true)
+![alt text](https://github.com/BrianKoDev/UML-Design-Using-STM32/blob/main/diagrams/usecase.PNG?raw=true)
